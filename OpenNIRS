@@ -1,0 +1,24 @@
+OpenNIRS
+
+Motivo:
+
+El sistema NIRS es utilizado en quirófano, entre muchos otros contextos, para detectar perdidas de flujo a nivel cerebral en la cirugía de carótida. Este sistema, aunque indudablemente útil, representa un reto desde el punto de vista económico, hecho que imposibilita su utilización de modo masivo y no utilizar ni ahondar en todas las posibilidades que esta tecnología posibilita en el ámbito de la clínica.
+
+Proyecto:
+
+Utilizar el dispositivo HEGduino como sistema de NIRS al detectar las variaciones en la hemoglobina oxigenada en la sangre.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Experimento 1:
+
+Colocando el dispositivo en la eminencia tenar se coloca un manguito de isquemia produciendo un cese del flujo en el brazo durante 3 minutos, observando a posteriori las variaciones ocurridas durante este periodo y durante el momento posterior de reperfusión.
+
+Resultado 1:
+
+No se observan cambios en los datos, gran cantidad de ruido
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Experimento 2:
+Repetir experimento 1 con fuente de alimentación basada en batería externa y portatil.
